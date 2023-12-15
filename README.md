@@ -6,7 +6,7 @@
 
 | Проект                                                       | Описание                                                     |                 Библиотеки                 |
 | ------------------------------------------------------------ | :----------------------------------------------------------- | :-----------------------------------------:|
-|[Автоматизация гугл таблиц](https://github.com/NadezhdaSV/My-projects/tree/master/%D0%9B%D0%B8%D1%87%D0%BD%D1%8B%D0%B5%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B/%D0%90%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F%20%D0%B3%D1%83%D0%B3%D0%BB%20%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%86) |Скрипт, выгружающий данные из базы данных ClickHouse в гугл таблицы за определённый месяц |`pandas`, `numpy`, `gspread`, `re`, `clickhouse_connect`, `tqdm`|
+|[Автоматизация гугл таблиц](https://github.com/NadezhdaSV/My-projects/tree/master/%D0%9B%D0%B8%D1%87%D0%BD%D1%8B%D0%B5%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B/%D0%90%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F%20%D0%B3%D1%83%D0%B3%D0%BB%20%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%86) |Подключение к базе данных ClickHouse и обновление данных в гугл таблицах за определённый месяц |`pandas`, `numpy`, `gspread`, `re`, `clickhouse_connect`, `tqdm`|
 |[NLP анализ советов](https://github.com/NadezhdaSV/My-projects/tree/master/%D0%9B%D0%B8%D1%87%D0%BD%D1%8B%D0%B5%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B/NLP%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D0%BE%D0%B2) |Анализ советов по профилактике выгорания. Очистка текста, лемматизация, регулярные выражения. Выделение часто встречающихся слов и сочетаний. |`pandas`, `numpy`, `nltk`, `re`, `pymystem3`, `matplotlib`|
 
 Проекты в папке **Я.Практикум**:
